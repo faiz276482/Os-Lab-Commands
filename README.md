@@ -75,6 +75,9 @@ _The command used is as follows_
 | ------- | ----------- |
 | `mkdir [dir]` | will create a new directory dir |
 | `ls` | will display all the files in current directory |
+| `ls -a` | do not ignore entries starting with . |
+| `ls -l` | use a long listing format |
+| `ls -i` | shows the inode number |
 | `cd dir` | will change directory to dir if dir is available inside the current directory |
 | `cd ..` | will go to a directory just above the current directory |
 | `cd [PATH]` | will cahnge directory in the path |
