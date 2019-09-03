@@ -48,6 +48,8 @@ _A list of my commonly used in Unix system_
 ### File Read Write Executable state change commands
 
 _The following table will explain the bit diagram and scope of editing the states_
+
+
 | File Type | Owner User | Group | Other Group |
 | --------- | ---------- | ----- | ----------- |
 | 1 bit | 2 to 4 bit | 5 to 7 bit | 8 to 10 bit |
